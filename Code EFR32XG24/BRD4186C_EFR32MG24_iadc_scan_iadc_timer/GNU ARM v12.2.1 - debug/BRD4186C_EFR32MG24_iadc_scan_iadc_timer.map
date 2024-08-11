@@ -1,0 +1,1736 @@
+Archive member included to satisfy reference by file (symbol)
+
+e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(_arm_muldf3.o)
+                              ./src/main_scan_iadc_timer.o (__aeabi_dmul)
+e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(_arm_addsubdf3.o)
+                              ./src/main_scan_iadc_timer.o (__aeabi_ui2d)
+e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(_arm_muldivdf3.o)
+                              ./src/main_scan_iadc_timer.o (__aeabi_ddiv)
+e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(_arm_cmpdf2.o)
+                              ./src/main_scan_iadc_timer.o (__aeabi_dcmpgt)
+e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+                              ./CMSIS/EFR32MG24/startup_efr32mg24.o (__aeabi_unwind_cpp_pr0)
+e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(libunwind.o)
+                              e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o) (restore_core_regs)
+e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(pr-support.o)
+                              e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o) (__gnu_unwind_execute)
+e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-abort.o)
+                              e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(pr-support.o) (abort)
+e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-exit.o)
+                              e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp/crt0.o (exit)
+e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-findfp.o)
+                              e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-exit.o) (__stdio_exit_handler)
+e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-fwalk.o)
+                              e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-findfp.o) (_fwalk_sglue)
+e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-stdio.o)
+                              e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-findfp.o) (__sread)
+e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-memset.o)
+                              e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp/crt0.o (memset)
+e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-signal.o)
+                              e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-abort.o) (raise)
+e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-closer.o)
+                              e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-stdio.o) (_close_r)
+e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-reent.o)
+                              e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-closer.o) (errno)
+e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-impure.o)
+                              e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-signal.o) (_impure_ptr)
+e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-lseekr.o)
+                              e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-stdio.o) (_lseek_r)
+e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-readr.o)
+                              e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-stdio.o) (_read_r)
+e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-signalr.o)
+                              e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-signal.o) (_kill_r)
+e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-writer.o)
+                              e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-stdio.o) (_write_r)
+e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-init.o)
+                              e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp/crt0.o (__libc_init_array)
+e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-lock.o)
+                              e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-findfp.o) (__retarget_lock_init_recursive)
+e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-memcpy-stub.o)
+                              e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o) (memcpy)
+e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-freer.o)
+                              e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-reent.o) (_free_r)
+e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-mallocr.o)
+                              e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-findfp.o) (_malloc_r)
+e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-mlock.o)
+                              e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-freer.o) (__malloc_lock)
+e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-fflush.o)
+                              e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-findfp.o) (_fflush_r)
+e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-sbrkr.o)
+                              e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-mallocr.o) (_sbrk_r)
+e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libnosys.a(sbrk.o)
+                              e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-sbrkr.o) (_sbrk)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp/crti.o
+ .data          0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp/crti.o
+ .bss           0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp/crti.o
+ .text          0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp/crtbegin.o
+ .data          0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp/crtbegin.o
+ .bss           0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp/crtbegin.o
+ .rodata.all_implied_fbits
+                0x00000000       0x24 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp/crtbegin.o
+ .data.__dso_handle
+                0x00000000        0x4 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp/crtbegin.o
+ .data          0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp/crt0.o
+ .bss           0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp/crt0.o
+ .ARM.extab     0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp/crt0.o
+ .data          0x00000000        0x0 ./CMSIS/EFR32MG24/startup_efr32mg24.o
+ .bss           0x00000000        0x0 ./CMSIS/EFR32MG24/startup_efr32mg24.o
+ .ARM.extab     0x00000000        0x0 ./CMSIS/EFR32MG24/startup_efr32mg24.o
+ .text          0x00000000        0x0 ./CMSIS/EFR32MG24/system_efr32mg24.o
+ .data          0x00000000        0x0 ./CMSIS/EFR32MG24/system_efr32mg24.o
+ .bss           0x00000000        0x0 ./CMSIS/EFR32MG24/system_efr32mg24.o
+ .text.FlashToRamCopy
+                0x00000000       0x3a ./CMSIS/EFR32MG24/system_efr32mg24.o
+ .text.SystemHFRCODPLLClockSet
+                0x00000000       0x20 ./CMSIS/EFR32MG24/system_efr32mg24.o
+ .text.SystemLFXOClockSet
+                0x00000000       0x20 ./CMSIS/EFR32MG24/system_efr32mg24.o
+ .text          0x00000000        0x0 ./emlib/em_cmu.o
+ .data          0x00000000        0x0 ./emlib/em_cmu.o
+ .bss           0x00000000        0x0 ./emlib/em_cmu.o
+ .text.CMU_CalibrateStart
+                0x00000000       0x18 ./emlib/em_cmu.o
+ .rodata.hfrcoCalTable
+                0x00000000      0x190 ./emlib/em_cmu.o
+ .data.lfxo_precision
+                0x00000000        0x2 ./emlib/em_cmu.o
+ .data.hfxo_precision
+                0x00000000        0x2 ./emlib/em_cmu.o
+ .data.ctuneDelta
+                0x00000000        0x1 ./emlib/em_cmu.o
+ .text.CMU_Calibrate
+                0x00000000       0x26 ./emlib/em_cmu.o
+ .text.CMU_CalibrateConfig
+                0x00000000      0x1a0 ./emlib/em_cmu.o
+ .text.CMU_CalibrateCountGet
+                0x00000000       0x30 ./emlib/em_cmu.o
+ .text.CMU_ClkOutPinConfig
+                0x00000000      0x1b8 ./emlib/em_cmu.o
+ .text.sli_em_cmu_SYSCLKInitPreClockSelect
+                0x00000000       0x1c ./emlib/em_cmu.o
+ .text.sli_em_cmu_SYSCLKInitPostClockSelect
+                0x00000000       0x30 ./emlib/em_cmu.o
+ .text.sli_em_cmu_HFXOSetForceEnable
+                0x00000000       0x34 ./emlib/em_cmu.o
+ .text.sli_em_cmu_SYSTICEXTCLKENSet
+                0x00000000       0x4c ./emlib/em_cmu.o
+ .text.sli_em_cmu_SYSTICEXTCLKENClear
+                0x00000000       0x4c ./emlib/em_cmu.o
+ .text.CMU_LF_ClockPrecisionGet
+                0x00000000       0x78 ./emlib/em_cmu.o
+ .text.CMU_HF_ClockPrecisionGet
+                0x00000000       0x44 ./emlib/em_cmu.o
+ .text.CMU_HFRCODPLLBandGet
+                0x00000000        0xe ./emlib/em_cmu.o
+ .text.CMU_HFRCODPLLBandSet
+                0x00000000      0x148 ./emlib/em_cmu.o
+ .text.CMU_DPLLLock
+                0x00000000      0x2e0 ./emlib/em_cmu.o
+ .text.CMU_HFXOStartCrystalSharingLeader
+                0x00000000       0xa4 ./emlib/em_cmu.o
+ .text.CMU_HFXOCrystalSharingFollowerInit
+                0x00000000      0x100 ./emlib/em_cmu.o
+ .text.CMU_HFXOCTuneSet
+                0x00000000       0xb8 ./emlib/em_cmu.o
+ .text.CMU_HFXOCTuneGet
+                0x00000000       0x78 ./emlib/em_cmu.o
+ .text.CMU_HFXOCTuneDeltaSet
+                0x00000000       0x20 ./emlib/em_cmu.o
+ .text.CMU_HFXOCTuneDeltaGet
+                0x00000000       0x18 ./emlib/em_cmu.o
+ .text.CMU_HFXOCoreBiasCurrentCalibrate
+                0x00000000       0xa0 ./emlib/em_cmu.o
+ .text.CMU_LFXOInit
+                0x00000000       0xd0 ./emlib/em_cmu.o
+ .text.CMU_LFXOPrecisionSet
+                0x00000000       0x20 ./emlib/em_cmu.o
+ .text.CMU_LFXOPrecisionGet
+                0x00000000       0x18 ./emlib/em_cmu.o
+ .text.CMU_HFXOPrecisionSet
+                0x00000000       0x20 ./emlib/em_cmu.o
+ .text.CMU_HFXOPrecisionGet
+                0x00000000       0x18 ./emlib/em_cmu.o
+ .text.CMU_LFRCOSetPrecision
+                0x00000000       0xcc ./emlib/em_cmu.o
+ .text.CMU_OscillatorTuningGet
+                0x00000000       0xb0 ./emlib/em_cmu.o
+ .text.CMU_OscillatorTuningSet
+                0x00000000      0x1ac ./emlib/em_cmu.o
+ .text.CMU_PCNTClockExternalSet
+                0x00000000       0x34 ./emlib/em_cmu.o
+ .text.CMU_HFRCOEM23BandGet
+                0x00000000        0xe ./emlib/em_cmu.o
+ .text.CMU_HFRCOEM23BandSet
+                0x00000000       0x74 ./emlib/em_cmu.o
+ .text.HFRCOEM23DevinfoGet
+                0x00000000      0x11c ./emlib/em_cmu.o
+ .text.HFRCODPLLDevinfoGet
+                0x00000000      0x1b8 ./emlib/em_cmu.o
+ .text          0x00000000        0x0 ./emlib/em_core.o
+ .data          0x00000000        0x0 ./emlib/em_core.o
+ .bss           0x00000000        0x0 ./emlib/em_core.o
+ .text.__NVIC_GetPriority
+                0x00000000       0x50 ./emlib/em_core.o
+ .text.CORE_CriticalDisableIrq
+                0x00000000       0x12 ./emlib/em_core.o
+ .text.CORE_CriticalEnableIrq
+                0x00000000       0x12 ./emlib/em_core.o
+ .text.CORE_YieldCritical
+                0x00000000       0x30 ./emlib/em_core.o
+ .text.CORE_AtomicDisableIrq
+                0x00000000       0x12 ./emlib/em_core.o
+ .text.CORE_AtomicEnableIrq
+                0x00000000       0x12 ./emlib/em_core.o
+ .text.CORE_EnterAtomic
+                0x00000000       0x22 ./emlib/em_core.o
+ .text.CORE_ExitAtomic
+                0x00000000       0x1e ./emlib/em_core.o
+ .text.CORE_YieldAtomic
+                0x00000000       0x30 ./emlib/em_core.o
+ .text.CORE_EnterNvicMask
+                0x00000000       0x38 ./emlib/em_core.o
+ .text.CORE_NvicDisableMask
+                0x00000000       0x2c ./emlib/em_core.o
+ .text.CORE_NvicEnableMask
+                0x00000000       0x2c ./emlib/em_core.o
+ .text.CORE_YieldNvicMask
+                0x00000000       0xa4 ./emlib/em_core.o
+ .text.CORE_NvicMaskSetIRQ
+                0x00000000       0x4c ./emlib/em_core.o
+ .text.CORE_NvicMaskClearIRQ
+                0x00000000       0x4e ./emlib/em_core.o
+ .text.CORE_InIrqContext
+                0x00000000       0x24 ./emlib/em_core.o
+ .text.CORE_IrqIsBlocked
+                0x00000000       0xa8 ./emlib/em_core.o
+ .text.CORE_IrqIsDisabled
+                0x00000000       0x28 ./emlib/em_core.o
+ .text.CORE_GetNvicEnabledMask
+                0x00000000       0x2c ./emlib/em_core.o
+ .text.CORE_GetNvicMaskDisableState
+                0x00000000       0x5c ./emlib/em_core.o
+ .text.CORE_NvicIRQDisabled
+                0x00000000       0x50 ./emlib/em_core.o
+ .text.CORE_GetNvicRamTableHandler
+                0x00000000       0x3c ./emlib/em_core.o
+ .text.CORE_SetNvicRamTableHandler
+                0x00000000       0x40 ./emlib/em_core.o
+ .text.CORE_InitNvicVectorTable
+                0x00000000       0xd4 ./emlib/em_core.o
+ .text          0x00000000        0x0 ./emlib/em_emu.o
+ .data          0x00000000        0x0 ./emlib/em_emu.o
+ .bss           0x00000000        0x0 ./emlib/em_emu.o
+ .text.SystemCoreClockUpdate
+                0x00000000        0xc ./emlib/em_emu.o
+ .text.BUS_RegMaskedWrite
+                0x00000000       0x36 ./emlib/em_emu.o
+ .text.EMU_DCDCLock
+                0x00000000       0x1c ./emlib/em_emu.o
+ .text.EMU_DCDCUnlock
+                0x00000000       0x1c ./emlib/em_emu.o
+ .text.EMU_DCDCSync
+                0x00000000       0x28 ./emlib/em_emu.o
+ .text.EMU_Unlock
+                0x00000000       0x1c ./emlib/em_emu.o
+ .text.GPIO_IntClear
+                0x00000000       0x28 ./emlib/em_emu.o
+ .text.SYSCFG_maskDmem0RetnCtrl
+                0x00000000       0x28 ./emlib/em_emu.o
+ .text.SYSCFG_zeroDmem0RetnCtrl
+                0x00000000       0x1c ./emlib/em_emu.o
+ .text.EMU_EM01Init
+                0x00000000       0x24 ./emlib/em_emu.o
+ .text.EMU_EM23Init
+                0x00000000       0x2c ./emlib/em_emu.o
+ .text.EMU_EM23PresleepHook
+                0x00000000        0xe ./emlib/em_emu.o
+ .text.EMU_EFPEM23PresleepHook
+                0x00000000        0xe ./emlib/em_emu.o
+ .text.EMU_EM23PostsleepHook
+                0x00000000        0xe ./emlib/em_emu.o
+ .text.EMU_EFPEM23PostsleepHook
+                0x00000000        0xe ./emlib/em_emu.o
+ .text.EMU_EnterEM2
+                0x00000000       0x50 ./emlib/em_emu.o
+ .text.EMU_EnterEM3
+                0x00000000       0x48 ./emlib/em_emu.o
+ .text.EMU_Save
+                0x00000000        0xe ./emlib/em_emu.o
+ .text.EMU_Restore
+                0x00000000        0xe ./emlib/em_emu.o
+ .text.EMU_EM4Init
+                0x00000000       0x2c ./emlib/em_emu.o
+ .text.EMU_EM4PresleepHook
+                0x00000000        0xe ./emlib/em_emu.o
+ .text.EMU_EFPEM4PresleepHook
+                0x00000000        0xe ./emlib/em_emu.o
+ .text.EMU_EnterEM4
+                0x00000000       0x9c ./emlib/em_emu.o
+ .text.EMU_EnterEM4Wait
+                0x00000000       0x28 ./emlib/em_emu.o
+ .text.EMU_EnterEM4H
+                0x00000000        0xc ./emlib/em_emu.o
+ .text.EMU_EnterEM4S
+                0x00000000        0xc ./emlib/em_emu.o
+ .text.EMU_MemPwrDown
+                0x00000000       0x14 ./emlib/em_emu.o
+ .text.EMU_RamPowerDown
+                0x00000000       0x7c ./emlib/em_emu.o
+ .text.EMU_RamPowerUp
+                0x00000000       0x20 ./emlib/em_emu.o
+ .text.EMU_UpdateOscConfig
+                0x00000000        0xe ./emlib/em_emu.o
+ .text.EMU_DCDCUpdatedHook
+                0x00000000        0xe ./emlib/em_emu.o
+ .text.EMU_DCDCModeSet
+                0x00000000      0x118 ./emlib/em_emu.o
+ .text.EMU_DCDCInit
+                0x00000000       0xa8 ./emlib/em_emu.o
+ .text.EMU_DCDCPowerOff
+                0x00000000       0x10 ./emlib/em_emu.o
+ .text.EMU_EM01PeakCurrentSet
+                0x00000000       0x8c ./emlib/em_emu.o
+ .text.EMU_DCDCSetPFMXModePeakCurrent
+                0x00000000       0x94 ./emlib/em_emu.o
+ .text.EMU_DCDCSetPFMXTimeoutMaxCtrl
+                0x00000000       0x90 ./emlib/em_emu.o
+ .text.EMU_TemperatureGet
+                0x00000000       0x3c ./emlib/em_emu.o
+ .text.EMU_EFPDirectModeEnable
+                0x00000000       0x40 ./emlib/em_emu.o
+ .text.EMU_EFPDriveDecoupleSet
+                0x00000000       0x40 ./emlib/em_emu.o
+ .text.EMU_EFPDriveDvddSet
+                0x00000000       0x40 ./emlib/em_emu.o
+ .text          0x00000000        0x0 ./emlib/em_gpio.o
+ .data          0x00000000        0x0 ./emlib/em_gpio.o
+ .bss           0x00000000        0x0 ./emlib/em_gpio.o
+ .text.BUS_RegBitWrite
+                0x00000000       0x3c ./emlib/em_gpio.o
+ .text.GPIO_EM4SetPinRetention
+                0x00000000       0x50 ./emlib/em_gpio.o
+ .text.GPIO_IntClear
+                0x00000000       0x28 ./emlib/em_gpio.o
+ .text.GPIO_DbgLocationSet
+                0x00000000       0x14 ./emlib/em_gpio.o
+ .text.GPIO_ExtIntConfig
+                0x00000000      0x118 ./emlib/em_gpio.o
+ .text.GPIO_EM4WUExtIntConfig
+                0x00000000       0x78 ./emlib/em_gpio.o
+ .text.GPIO_PinModeGet
+                0x00000000       0x7c ./emlib/em_gpio.o
+ .text.GPIO_EM4EnablePinWakeup
+                0x00000000       0x58 ./emlib/em_gpio.o
+ .text          0x00000000        0x0 ./emlib/em_iadc.o
+ .data          0x00000000        0x0 ./emlib/em_iadc.o
+ .bss           0x00000000        0x0 ./emlib/em_iadc.o
+ .text.IADC_pullSingleFifoData
+                0x00000000       0x18 ./emlib/em_iadc.o
+ .text.IADC_readSingleData
+                0x00000000       0x18 ./emlib/em_iadc.o
+ .text.IADC_pullScanFifoData
+                0x00000000       0x1a ./emlib/em_iadc.o
+ .text.IADC_readScanData
+                0x00000000       0x1a ./emlib/em_iadc.o
+ .text.IADC_clearInt
+                0x00000000       0x22 ./emlib/em_iadc.o
+ .text.IADC_disableInt
+                0x00000000       0x22 ./emlib/em_iadc.o
+ .text.IADC_initSingle
+                0x00000000       0xac ./emlib/em_iadc.o
+ .text.IADC_updateSingleInput
+                0x00000000       0x70 ./emlib/em_iadc.o
+ .text.IADC_setScanMask
+                0x00000000       0x50 ./emlib/em_iadc.o
+ .text.IADC_updateScanEntry
+                0x00000000       0xb0 ./emlib/em_iadc.o
+ .text.IADC_reset
+                0x00000000      0x158 ./emlib/em_iadc.o
+ .text.IADC_pullSingleFifoResult
+                0x00000000       0x2c ./emlib/em_iadc.o
+ .text.IADC_readSingleResult
+                0x00000000       0x2c ./emlib/em_iadc.o
+ .text.IADC_readScanResult
+                0x00000000       0x30 ./emlib/em_iadc.o
+ .text          0x00000000        0x0 ./emlib/em_system.o
+ .data          0x00000000        0x0 ./emlib/em_system.o
+ .bss           0x00000000        0x0 ./emlib/em_system.o
+ .text.SYSTEM_GetCalibrationValue
+                0x00000000       0x64 ./emlib/em_system.o
+ .text.SYSTEM_GetSecurityCapability
+                0x00000000       0x5c ./emlib/em_system.o
+ .text.SYSTEM_GetUnique
+                0x00000000       0x4c ./emlib/em_system.o
+ .text.SYSTEM_GetProdRev
+                0x00000000       0x1c ./emlib/em_system.o
+ .text.SYSTEM_GetSRAMBaseAddress
+                0x00000000       0x12 ./emlib/em_system.o
+ .text.SYSTEM_GetSRAMSize
+                0x00000000       0x28 ./emlib/em_system.o
+ .text.SYSTEM_GetFlashSize
+                0x00000000       0x18 ./emlib/em_system.o
+ .text.SYSTEM_GetFlashPageSize
+                0x00000000       0x2c ./emlib/em_system.o
+ .text.SYSTEM_GetPartNumber
+                0x00000000       0x18 ./emlib/em_system.o
+ .text.SYSTEM_GetCalibrationTemperature
+                0x00000000       0x18 ./emlib/em_system.o
+ .text.SYSTEM_GetFamily
+                0x00000000       0x20 ./emlib/em_system.o
+ .text          0x00000000        0x0 ./src/main_scan_iadc_timer.o
+ .data          0x00000000        0x0 ./src/main_scan_iadc_timer.o
+ .bss           0x00000000        0x0 ./src/main_scan_iadc_timer.o
+ .text          0x00000000        0x0 ./src/sl_syscalls.o
+ .data          0x00000000        0x0 ./src/sl_syscalls.o
+ .bss           0x00000000        0x0 ./src/sl_syscalls.o
+ .text._close   0x00000000       0x18 ./src/sl_syscalls.o
+ .text._fstat   0x00000000       0x18 ./src/sl_syscalls.o
+ .text._getpid  0x00000000       0x10 ./src/sl_syscalls.o
+ .text._isatty  0x00000000       0x16 ./src/sl_syscalls.o
+ .text._kill    0x00000000       0x1a ./src/sl_syscalls.o
+ .text._lseek   0x00000000       0x1a ./src/sl_syscalls.o
+ .text._read    0x00000000       0x1a ./src/sl_syscalls.o
+ .text._write   0x00000000       0x1a ./src/sl_syscalls.o
+ .text._gettimeofday
+                0x00000000       0x18 ./src/sl_syscalls.o
+ .text          0x00000000      0x254 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(_arm_muldf3.o)
+ .data          0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(_arm_muldf3.o)
+ .bss           0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(_arm_muldf3.o)
+ .debug_line_str
+                0x00000000       0xd4 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(_arm_muldf3.o)
+ .debug_frame   0x00000000       0x30 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(_arm_muldf3.o)
+ .ARM.attributes
+                0x00000000       0x26 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(_arm_muldf3.o)
+ .data          0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(_arm_addsubdf3.o)
+ .bss           0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(_arm_addsubdf3.o)
+ .data          0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(_arm_muldivdf3.o)
+ .bss           0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(_arm_muldivdf3.o)
+ .data          0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(_arm_cmpdf2.o)
+ .bss           0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(_arm_cmpdf2.o)
+ .text          0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+ .data          0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+ .bss           0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text.selfrel_offset31
+                0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text.search_EIT_table
+                0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text.__gnu_unwind_get_pr_addr
+                0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text.get_eit_entry
+                0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text.restore_non_core_regs
+                0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+ .text.__gnu_unwind_24bit.constprop.0
+                0x00000000        0x4 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text.__gnu_unwind_24bit.constprop.0
+                0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+ .ARM.exidx.text.__gnu_unwind_24bit.constprop.0
+                0x00000000        0x8 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text._Unwind_decode_typeinfo_ptr.constprop.0
+                0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text._Unwind_DebugHook
+                0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text.unwind_phase2
+                0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text.unwind_phase2_forced
+                0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+ .text._Unwind_GetCFA
+                0x00000000        0x4 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text._Unwind_GetCFA
+                0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+ .ARM.exidx.text._Unwind_GetCFA
+                0x00000000        0x8 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text.__gnu_Unwind_RaiseException
+                0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text.__gnu_Unwind_ForcedUnwind
+                0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text.__gnu_Unwind_Resume
+                0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text.__gnu_Unwind_Resume_or_Rethrow
+                0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+ .text._Unwind_Complete
+                0x00000000        0x4 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text._Unwind_Complete
+                0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+ .ARM.exidx.text._Unwind_Complete
+                0x00000000        0x8 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+ .text._Unwind_DeleteException
+                0x00000000        0xc e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text._Unwind_DeleteException
+                0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+ .ARM.exidx.text._Unwind_DeleteException
+                0x00000000        0x8 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text._Unwind_VRS_Get
+                0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text._Unwind_GetGR
+                0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text._Unwind_VRS_Set
+                0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text._Unwind_SetGR
+                0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text.__gnu_Unwind_Backtrace
+                0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text.__gnu_unwind_pr_common
+                0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text.__aeabi_unwind_cpp_pr0
+                0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text.__aeabi_unwind_cpp_pr1
+                0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text.__aeabi_unwind_cpp_pr2
+                0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text._Unwind_VRS_Pop
+                0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+ .data          0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(libunwind.o)
+ .bss           0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(libunwind.o)
+ .text          0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(pr-support.o)
+ .data          0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(pr-support.o)
+ .bss           0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(pr-support.o)
+ .ARM.extab.text.next_unwind_byte
+                0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(pr-support.o)
+ .text._Unwind_GetGR.constprop.0
+                0x00000000       0x18 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(pr-support.o)
+ .ARM.extab.text._Unwind_GetGR.constprop.0
+                0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(pr-support.o)
+ .ARM.exidx.text._Unwind_GetGR.constprop.0
+                0x00000000        0x8 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(pr-support.o)
+ .text.unwind_UCB_from_context
+                0x00000000        0x4 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(pr-support.o)
+ .ARM.extab.text.unwind_UCB_from_context
+                0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(pr-support.o)
+ .ARM.exidx.text.unwind_UCB_from_context
+                0x00000000        0x8 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(pr-support.o)
+ .ARM.extab.text.__gnu_unwind_execute
+                0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(pr-support.o)
+ .text.__gnu_unwind_frame
+                0x00000000       0x2c e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(pr-support.o)
+ .ARM.extab.text.__gnu_unwind_frame
+                0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(pr-support.o)
+ .ARM.exidx.text.__gnu_unwind_frame
+                0x00000000        0x8 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(pr-support.o)
+ .text._Unwind_GetRegionStart
+                0x00000000        0xc e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(pr-support.o)
+ .ARM.extab.text._Unwind_GetRegionStart
+                0x00000000        0xc e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(pr-support.o)
+ .ARM.exidx.text._Unwind_GetRegionStart
+                0x00000000        0x8 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(pr-support.o)
+ .text._Unwind_GetLanguageSpecificData
+                0x00000000       0x14 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(pr-support.o)
+ .ARM.extab.text._Unwind_GetLanguageSpecificData
+                0x00000000        0xc e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(pr-support.o)
+ .ARM.exidx.text._Unwind_GetLanguageSpecificData
+                0x00000000        0x8 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(pr-support.o)
+ .text.unlikely._Unwind_GetDataRelBase
+                0x00000000        0x6 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(pr-support.o)
+ .ARM.extab.text.unlikely._Unwind_GetDataRelBase
+                0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(pr-support.o)
+ .ARM.exidx.text.unlikely._Unwind_GetDataRelBase
+                0x00000000        0x8 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(pr-support.o)
+ .text.unlikely._Unwind_GetTextRelBase
+                0x00000000        0x6 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(pr-support.o)
+ .ARM.extab.text.unlikely._Unwind_GetTextRelBase
+                0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(pr-support.o)
+ .ARM.exidx.text.unlikely._Unwind_GetTextRelBase
+                0x00000000        0x8 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(pr-support.o)
+ .text          0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-abort.o)
+ .data          0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-abort.o)
+ .bss           0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-abort.o)
+ .text.abort    0x00000000        0xe e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-abort.o)
+ .debug_frame   0x00000000       0x28 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-abort.o)
+ .ARM.attributes
+                0x00000000       0x36 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-abort.o)
+ .text          0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-exit.o)
+ .data          0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-exit.o)
+ .bss           0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-exit.o)
+ .text          0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-findfp.o)
+ .data          0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-findfp.o)
+ .bss           0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-findfp.o)
+ .text.std      0x00000000       0x6c e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-findfp.o)
+ .text.stdio_exit_handler
+                0x00000000       0x18 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-findfp.o)
+ .text.cleanup_stdio
+                0x00000000       0x40 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-findfp.o)
+ .text.__fp_lock
+                0x00000000       0x18 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-findfp.o)
+ .text.__fp_unlock
+                0x00000000       0x18 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-findfp.o)
+ .text.global_stdio_init.part.0
+                0x00000000       0x3c e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-findfp.o)
+ .text.__sfp_lock_acquire
+                0x00000000        0xc e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-findfp.o)
+ .text.__sfp_lock_release
+                0x00000000        0xc e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-findfp.o)
+ .text.__sfp    0x00000000       0xa4 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-findfp.o)
+ .text.__sinit  0x00000000       0x30 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-findfp.o)
+ .text.__fp_lock_all
+                0x00000000       0x1c e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-findfp.o)
+ .text.__fp_unlock_all
+                0x00000000       0x1c e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-findfp.o)
+ .data.__sglue  0x00000000        0xc e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-findfp.o)
+ .bss.__sf      0x00000000      0x138 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-findfp.o)
+ .text          0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-fwalk.o)
+ .data          0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-fwalk.o)
+ .bss           0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-fwalk.o)
+ .text._fwalk_sglue
+                0x00000000       0x3c e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-fwalk.o)
+ .debug_frame   0x00000000       0x34 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-fwalk.o)
+ .ARM.attributes
+                0x00000000       0x36 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-fwalk.o)
+ .text          0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-stdio.o)
+ .data          0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-stdio.o)
+ .bss           0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-stdio.o)
+ .text.__sread  0x00000000       0x22 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-stdio.o)
+ .text.__seofread
+                0x00000000        0x4 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-stdio.o)
+ .text.__swrite
+                0x00000000       0x38 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-stdio.o)
+ .text.__sseek  0x00000000       0x24 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-stdio.o)
+ .text.__sclose
+                0x00000000        0x8 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-stdio.o)
+ .debug_frame   0x00000000       0x88 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-stdio.o)
+ .ARM.attributes
+                0x00000000       0x36 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-stdio.o)
+ .text          0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-memset.o)
+ .data          0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-memset.o)
+ .bss           0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-memset.o)
+ .text          0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-signal.o)
+ .data          0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-signal.o)
+ .bss           0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-signal.o)
+ .text._init_signal_r
+                0x00000000       0x28 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-signal.o)
+ .text._signal_r
+                0x00000000       0x30 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-signal.o)
+ .text._raise_r
+                0x00000000       0x50 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-signal.o)
+ .text.__sigtramp_r
+                0x00000000       0x48 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-signal.o)
+ .text.raise    0x00000000       0x10 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-signal.o)
+ .text.signal   0x00000000       0x10 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-signal.o)
+ .text._init_signal
+                0x00000000        0xc e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-signal.o)
+ .text.__sigtramp
+                0x00000000       0x10 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-signal.o)
+ .debug_frame   0x00000000       0xcc e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-signal.o)
+ .ARM.attributes
+                0x00000000       0x36 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-signal.o)
+ .text          0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-closer.o)
+ .data          0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-closer.o)
+ .bss           0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-closer.o)
+ .text._close_r
+                0x00000000       0x20 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-closer.o)
+ .debug_frame   0x00000000       0x2c e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-closer.o)
+ .ARM.attributes
+                0x00000000       0x36 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-closer.o)
+ .text          0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-reent.o)
+ .data          0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-reent.o)
+ .bss           0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-reent.o)
+ .text._reclaim_reent
+                0x00000000       0xac e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-reent.o)
+ .bss.errno     0x00000000        0x4 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-reent.o)
+ .debug_frame   0x00000000       0x38 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-reent.o)
+ .ARM.attributes
+                0x00000000       0x36 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-reent.o)
+ .text          0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-impure.o)
+ .data          0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-impure.o)
+ .bss           0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-impure.o)
+ .data._impure_data
+                0x00000000       0x4c e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-impure.o)
+ .ARM.attributes
+                0x00000000       0x36 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-impure.o)
+ .text          0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-lseekr.o)
+ .data          0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-lseekr.o)
+ .bss           0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-lseekr.o)
+ .text._lseek_r
+                0x00000000       0x24 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-lseekr.o)
+ .debug_frame   0x00000000       0x2c e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-lseekr.o)
+ .ARM.attributes
+                0x00000000       0x36 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-lseekr.o)
+ .text          0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-readr.o)
+ .data          0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-readr.o)
+ .bss           0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-readr.o)
+ .text._read_r  0x00000000       0x24 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-readr.o)
+ .debug_frame   0x00000000       0x2c e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-readr.o)
+ .ARM.attributes
+                0x00000000       0x36 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-readr.o)
+ .text          0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-signalr.o)
+ .data          0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-signalr.o)
+ .bss           0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-signalr.o)
+ .text._kill_r  0x00000000       0x24 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-signalr.o)
+ .text._getpid_r
+                0x00000000        0x4 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-signalr.o)
+ .debug_frame   0x00000000       0x3c e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-signalr.o)
+ .ARM.attributes
+                0x00000000       0x36 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-signalr.o)
+ .text          0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-writer.o)
+ .data          0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-writer.o)
+ .bss           0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-writer.o)
+ .text._write_r
+                0x00000000       0x24 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-writer.o)
+ .debug_frame   0x00000000       0x2c e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-writer.o)
+ .ARM.attributes
+                0x00000000       0x36 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-writer.o)
+ .text          0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-init.o)
+ .data          0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-init.o)
+ .bss           0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-init.o)
+ .text          0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-lock.o)
+ .data          0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-lock.o)
+ .bss           0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_init
+                0x00000000        0x2 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_init_recursive
+                0x00000000        0x2 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_close
+                0x00000000        0x2 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_close_recursive
+                0x00000000        0x2 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x00000000        0x2 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_acquire_recursive
+                0x00000000        0x2 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x00000000        0x4 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x00000000        0x4 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_release
+                0x00000000        0x2 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_release_recursive
+                0x00000000        0x2 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-lock.o)
+ .bss.__lock___arc4random_mutex
+                0x00000000        0x1 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-lock.o)
+ .bss.__lock___dd_hash_mutex
+                0x00000000        0x1 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-lock.o)
+ .bss.__lock___tz_mutex
+                0x00000000        0x1 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-lock.o)
+ .bss.__lock___env_recursive_mutex
+                0x00000000        0x1 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-lock.o)
+ .bss.__lock___malloc_recursive_mutex
+                0x00000000        0x1 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-lock.o)
+ .bss.__lock___at_quick_exit_mutex
+                0x00000000        0x1 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-lock.o)
+ .bss.__lock___atexit_recursive_mutex
+                0x00000000        0x1 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-lock.o)
+ .bss.__lock___sfp_recursive_mutex
+                0x00000000        0x1 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-lock.o)
+ .debug_frame   0x00000000       0xb0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-lock.o)
+ .ARM.attributes
+                0x00000000       0x36 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-lock.o)
+ .text          0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-memcpy-stub.o)
+ .data          0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-memcpy-stub.o)
+ .bss           0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-memcpy-stub.o)
+ .text          0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-freer.o)
+ .data          0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-freer.o)
+ .bss           0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-freer.o)
+ .text._free_r  0x00000000       0x94 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-freer.o)
+ .debug_frame   0x00000000       0x38 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-freer.o)
+ .ARM.attributes
+                0x00000000       0x36 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-freer.o)
+ .text          0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-mallocr.o)
+ .data          0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-mallocr.o)
+ .bss           0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-mallocr.o)
+ .text.sbrk_aligned
+                0x00000000       0x44 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-mallocr.o)
+ .text._malloc_r
+                0x00000000       0xf0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-mallocr.o)
+ .bss.__malloc_sbrk_start
+                0x00000000        0x4 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-mallocr.o)
+ .bss.__malloc_free_list
+                0x00000000        0x4 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-mallocr.o)
+ .debug_frame   0x00000000       0x4c e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-mallocr.o)
+ .ARM.attributes
+                0x00000000       0x36 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-mallocr.o)
+ .text          0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-mlock.o)
+ .data          0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-mlock.o)
+ .bss           0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-mlock.o)
+ .text.__malloc_lock
+                0x00000000        0xc e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-mlock.o)
+ .text.__malloc_unlock
+                0x00000000        0xc e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-mlock.o)
+ .debug_frame   0x00000000       0x30 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-mlock.o)
+ .ARM.attributes
+                0x00000000       0x36 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-mlock.o)
+ .text          0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-fflush.o)
+ .data          0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-fflush.o)
+ .bss           0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-fflush.o)
+ .text.__sflush_r
+                0x00000000      0x106 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-fflush.o)
+ .text._fflush_r
+                0x00000000       0x50 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-fflush.o)
+ .text.fflush   0x00000000       0x28 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-fflush.o)
+ .debug_frame   0x00000000       0x5c e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-fflush.o)
+ .ARM.attributes
+                0x00000000       0x36 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-fflush.o)
+ .text          0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-sbrkr.o)
+ .data          0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-sbrkr.o)
+ .bss           0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-sbrkr.o)
+ .text._sbrk_r  0x00000000       0x20 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-sbrkr.o)
+ .debug_frame   0x00000000       0x2c e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-sbrkr.o)
+ .ARM.attributes
+                0x00000000       0x36 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-sbrkr.o)
+ .text          0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libnosys.a(sbrk.o)
+ .data          0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libnosys.a(sbrk.o)
+ .bss           0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libnosys.a(sbrk.o)
+ .text._sbrk    0x00000000       0x20 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libnosys.a(sbrk.o)
+ .bss.heap_end.0
+                0x00000000        0x4 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libnosys.a(sbrk.o)
+ .debug_frame   0x00000000       0x20 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libnosys.a(sbrk.o)
+ .ARM.attributes
+                0x00000000       0x36 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libnosys.a(sbrk.o)
+ .text          0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp/crtend.o
+ .data          0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp/crtend.o
+ .bss           0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp/crtend.o
+ .rodata.all_implied_fbits
+                0x00000000       0x24 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp/crtend.o
+ .text          0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp/crtn.o
+ .data          0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp/crtn.o
+ .bss           0x00000000        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x08000000         0x00180000         xr
+RAM              0x20000000         0x00040000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp/crti.o
+LOAD e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp/crtbegin.o
+LOAD e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp/crt0.o
+LOAD ./CMSIS/EFR32MG24/startup_efr32mg24.o
+LOAD ./CMSIS/EFR32MG24/system_efr32mg24.o
+LOAD ./emlib/em_cmu.o
+LOAD ./emlib/em_core.o
+LOAD ./emlib/em_emu.o
+LOAD ./emlib/em_gpio.o
+LOAD ./emlib/em_iadc.o
+LOAD ./emlib/em_system.o
+LOAD ./src/main_scan_iadc_timer.o
+LOAD ./src/sl_syscalls.o
+START GROUP
+LOAD e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a
+LOAD e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a
+LOAD e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libnosys.a
+END GROUP
+START GROUP
+LOAD e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a
+LOAD e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libg_nano.a
+LOAD e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a
+END GROUP
+START GROUP
+LOAD e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a
+LOAD e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a
+END GROUP
+LOAD e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp/crtend.o
+LOAD e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp/crtn.o
+
+.text           0x08000000     0x6230
+ *(.vectors)
+ .vectors       0x08000000      0x7c0 ./CMSIS/EFR32MG24/startup_efr32mg24.o
+                0x08000000                __Vectors
+                0x080007c0                __Vectors_End = .
+                0x080007c0                __Vectors_Size = (__Vectors_End - __Vectors)
+                0x20000050                __end__ = .
+ *(.text*)
+ .text.deregister_tm_clones
+                0x080007c0       0x1c e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp/crtbegin.o
+ .text.register_tm_clones
+                0x080007dc       0x28 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp/crtbegin.o
+ .text.__do_global_dtors_aux
+                0x08000804       0x28 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp/crtbegin.o
+ .text.frame_dummy
+                0x0800082c       0x24 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp/crtbegin.o
+ .text          0x08000850       0x7c e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp/crt0.o
+                0x08000850                _stack_init
+                0x08000858                _start
+                0x08000858                _mainCRTStartup
+ .text          0x080008cc       0x58 ./CMSIS/EFR32MG24/startup_efr32mg24.o
+                0x080008cc                Reset_Handler
+                0x0800090e                HardFault_Handler
+                0x08000910                TIMER2_IRQHandler
+                0x08000910                DebugMon_Handler
+                0x08000910                AHB2AHB1_IRQHandler
+                0x08000910                EUSART0_TX_IRQHandler
+                0x08000910                I2C0_IRQHandler
+                0x08000910                LFXO_IRQHandler
+                0x08000910                USART0_TX_IRQHandler
+                0x08000910                SW2_IRQHandler
+                0x08000910                SMU_SECURE_IRQHandler
+                0x08000910                SysTick_Handler
+                0x08000910                SYSRTC_SEQ_IRQHandler
+                0x08000910                EMUEFP_IRQHandler
+                0x08000910                PendSV_Handler
+                0x08000910                NMI_Handler
+                0x08000910                SYNTH_IRQHandler
+                0x08000910                HOSTMAILBOX_IRQHandler
+                0x08000910                HFXO0_IRQHandler
+                0x08000910                I2C1_IRQHandler
+                0x08000910                WDOG0_IRQHandler
+                0x08000910                TIMER3_IRQHandler
+                0x08000910                SYSCFG_IRQHandler
+                0x08000910                RFECA1_IRQHandler
+                0x08000910                EMUDG_IRQHandler
+                0x08000910                MSC_IRQHandler
+                0x08000910                DPLL0_IRQHandler
+                0x08000910                UsageFault_Handler
+                0x08000910                WDOG1_IRQHandler
+                0x08000910                M33CTI1_IRQHandler
+                0x08000910                TIMER4_IRQHandler
+                0x08000910                GPIO_EVEN_IRQHandler
+                0x08000910                VDAC0_IRQHandler
+                0x08000910                LDMA_IRQHandler
+                0x08000910                SEMBTX_IRQHandler
+                0x08000910                SW0_IRQHandler
+                0x08000910                TIMER0_IRQHandler
+                0x08000910                ULFRCO_IRQHandler
+                0x08000910                MVP_IRQHandler
+                0x08000910                LETIMER0_IRQHandler
+                0x08000910                EUSART1_RX_IRQHandler
+                0x08000910                TIMER1_IRQHandler
+                0x08000910                HFRCO0_IRQHandler
+                0x08000910                SecureFault_Handler
+                0x08000910                BUFC_IRQHandler
+                0x08000910                DCDC_IRQHandler
+                0x08000910                MODEM_IRQHandler
+                0x08000910                Default_Handler
+                0x08000910                RAC_SEQ_IRQHandler
+                0x08000910                FRC_PRI_IRQHandler
+                0x08000910                SW3_IRQHandler
+                0x08000910                EMU_IRQHandler
+                0x08000910                KERNEL0_IRQHandler
+                0x08000910                FRC_IRQHandler
+                0x08000910                PCNT0_IRQHandler
+                0x08000910                KERNEL1_IRQHandler
+                0x08000910                AGC_IRQHandler
+                0x08000910                EUSART1_TX_IRQHandler
+                0x08000910                KEYSCAN_IRQHandler
+                0x08000910                HFRCOEM23_IRQHandler
+                0x08000910                sl_app_properties
+                0x08000910                BURTC_IRQHandler
+                0x08000910                SEMBRX_IRQHandler
+                0x08000910                RFECA0_IRQHandler
+                0x08000910                LFRCO_IRQHandler
+                0x08000910                VDAC1_IRQHandler
+                0x08000910                ACMP0_IRQHandler
+                0x08000910                USART0_RX_IRQHandler
+                0x08000910                MemManage_Handler
+                0x08000910                AHB2AHB0_IRQHandler
+                0x08000910                SVC_Handler
+                0x08000910                SMU_S_PRIVILEGED_IRQHandler
+                0x08000910                SW1_IRQHandler
+                0x08000910                CMU_IRQHandler
+                0x08000910                EUSART0_RX_IRQHandler
+                0x08000910                RAC_RSM_IRQHandler
+                0x08000910                SETAMPERHOST_IRQHandler
+                0x08000910                GPIO_ODD_IRQHandler
+                0x08000910                AES_IRQHandler
+                0x08000910                M33CTI0_IRQHandler
+                0x08000910                ICACHE0_IRQHandler
+                0x08000910                SMU_NS_PRIVILEGED_IRQHandler
+                0x08000910                FPUEXH_IRQHandler
+                0x08000910                PROTIMER_IRQHandler
+                0x08000910                ACMP1_IRQHandler
+                0x08000910                BusFault_Handler
+                0x08000910                MPAHBRAM_IRQHandler
+                0x08000910                SYSRTC_APP_IRQHandler
+ .text.__NVIC_EnableIRQ
+                0x08000924       0x3c ./CMSIS/EFR32MG24/system_efr32mg24.o
+ .text.__NVIC_ClearPendingIRQ
+                0x08000960       0x3c ./CMSIS/EFR32MG24/system_efr32mg24.o
+ .text.SystemInit
+                0x0800099c       0x94 ./CMSIS/EFR32MG24/system_efr32mg24.o
+                0x0800099c                SystemInit
+ .text.SystemHFRCODPLLClockGet
+                0x08000a30       0x18 ./CMSIS/EFR32MG24/system_efr32mg24.o
+                0x08000a30                SystemHFRCODPLLClockGet
+ .text.SystemSYSCLKGet
+                0x08000a48       0x54 ./CMSIS/EFR32MG24/system_efr32mg24.o
+                0x08000a48                SystemSYSCLKGet
+ .text.SystemHCLKGet
+                0x08000a9c       0x3c ./CMSIS/EFR32MG24/system_efr32mg24.o
+                0x08000a9c                SystemHCLKGet
+ .text.SystemMaxCoreClockGet
+                0x08000ad8       0x14 ./CMSIS/EFR32MG24/system_efr32mg24.o
+                0x08000ad8                SystemMaxCoreClockGet
+ .text.SystemHFXOClockGet
+                0x08000aec       0x18 ./CMSIS/EFR32MG24/system_efr32mg24.o
+                0x08000aec                SystemHFXOClockGet
+ .text.SystemHFXOClockSet
+                0x08000b04       0x30 ./CMSIS/EFR32MG24/system_efr32mg24.o
+                0x08000b04                SystemHFXOClockSet
+ .text.SystemCLKIN0Get
+                0x08000b34       0x10 ./CMSIS/EFR32MG24/system_efr32mg24.o
+                0x08000b34                SystemCLKIN0Get
+ .text.SystemFSRCOClockGet
+                0x08000b44       0x14 ./CMSIS/EFR32MG24/system_efr32mg24.o
+                0x08000b44                SystemFSRCOClockGet
+ .text.SystemHFRCOEM23ClockGet
+                0x08000b58       0xe8 ./CMSIS/EFR32MG24/system_efr32mg24.o
+                0x08000b58                SystemHFRCOEM23ClockGet
+ .text.SystemLFRCOClockGet
+                0x08000c40       0x12 ./CMSIS/EFR32MG24/system_efr32mg24.o
+                0x08000c40                SystemLFRCOClockGet
+ .text.SystemULFRCOClockGet
+                0x08000c52       0x12 ./CMSIS/EFR32MG24/system_efr32mg24.o
+                0x08000c52                SystemULFRCOClockGet
+ .text.SystemLFXOClockGet
+                0x08000c64       0x18 ./CMSIS/EFR32MG24/system_efr32mg24.o
+                0x08000c64                SystemLFXOClockGet
+ .text.SystemCoreClockGet
+                0x08000c7c        0xe ./emlib/em_cmu.o
+ .text.BUS_RegBitWrite
+                0x08000c8a       0x3c ./emlib/em_cmu.o
+ .text.BUS_RegBitRead
+                0x08000cc6       0x24 ./emlib/em_cmu.o
+ .text.BUS_RegMaskedWrite
+                0x08000cea       0x36 ./emlib/em_cmu.o
+ .text.EMU_VScaleWait
+                0x08000d20       0x20 ./emlib/em_cmu.o
+ .text.EMU_VScaleGet
+                0x08000d40       0x20 ./emlib/em_cmu.o
+ .text.SYSCFG_setSysTicExtClkEnCfgSysTic
+                0x08000d60       0x20 ./emlib/em_cmu.o
+ .text.SYSCFG_clearSysTicExtClkEnCfgSysTic
+                0x08000d80       0x20 ./emlib/em_cmu.o
+ .text.MSC_LockGetLocked
+                0x08000da0       0x24 ./emlib/em_cmu.o
+ .text.MSC_LockSetLocked
+                0x08000dc4       0x18 ./emlib/em_cmu.o
+ .text.MSC_LockSetUnlocked
+                0x08000ddc       0x1c ./emlib/em_cmu.o
+ .text.MSC_ReadCTRLGet
+                0x08000df8       0x18 ./emlib/em_cmu.o
+ .text.MSC_ReadCTRLSet
+                0x08000e10       0x20 ./emlib/em_cmu.o
+ .text.CMU_ClockDivGet
+                0x08000e30       0x9c ./emlib/em_cmu.o
+                0x08000e30                CMU_ClockDivGet
+ .text.CMU_ClockDivSet
+                0x08000ecc      0x170 ./emlib/em_cmu.o
+                0x08000ecc                CMU_ClockDivSet
+ .text.CMU_ClockEnable
+                0x0800103c       0x58 ./emlib/em_cmu.o
+                0x0800103c                CMU_ClockEnable
+ .text.CMU_ClockFreqGet
+                0x08001094      0x6bc ./emlib/em_cmu.o
+                0x08001094                CMU_ClockFreqGet
+ .text.CMU_ClockSelectGet
+                0x08001750      0x3ec ./emlib/em_cmu.o
+                0x08001750                CMU_ClockSelectGet
+ .text.CMU_ClockSelectSet
+                0x08001b3c      0xab4 ./emlib/em_cmu.o
+                0x08001b3c                CMU_ClockSelectSet
+ .text.CMU_HFXOInit
+                0x080025f0      0x250 ./emlib/em_cmu.o
+                0x080025f0                CMU_HFXOInit
+ .text.CMU_UpdateWaitStates
+                0x08002840       0x2a ./emlib/em_cmu.o
+                0x08002840                CMU_UpdateWaitStates
+ *fill*         0x0800286a        0x2 
+ .text.eusart0ClkGet
+                0x0800286c       0xa4 ./emlib/em_cmu.o
+ .text.em01GrpcClkGet
+                0x08002910       0xb0 ./emlib/em_cmu.o
+ .text.vdac0ClkGet
+                0x080029c0       0xa0 ./emlib/em_cmu.o
+ .text.vdac1ClkGet
+                0x08002a60       0xa0 ./emlib/em_cmu.o
+ .text.pcnt0ClkGet
+                0x08002b00       0x68 ./emlib/em_cmu.o
+ .text.rhclkPrescMax
+                0x08002b68       0x20 ./emlib/em_cmu.o
+ .text.rhclkPrescOptimize
+                0x08002b88       0x2c ./emlib/em_cmu.o
+ .text.traceClkGet
+                0x08002bb4       0x78 ./emlib/em_cmu.o
+ .text.dpllRefClkGet
+                0x08002c2c       0x88 ./emlib/em_cmu.o
+ .text.em01GrpaClkGet
+                0x08002cb4       0xb8 ./emlib/em_cmu.o
+ .text.em23GrpaClkGet
+                0x08002d6c       0x88 ./emlib/em_cmu.o
+ .text.em4GrpaClkGet
+                0x08002df4       0x88 ./emlib/em_cmu.o
+ .text.getWaitStatesByFrequencyAndVScale
+                0x08002e7c       0x5c ./emlib/em_cmu.o
+ .text.flashWaitStateControl
+                0x08002ed8       0x6c ./emlib/em_cmu.o
+ .text.iadcClkGet
+                0x08002f44       0x84 ./emlib/em_cmu.o
+ .text.pclkDivMax
+                0x08002fc8       0x12 ./emlib/em_cmu.o
+ *fill*         0x08002fda        0x2 
+ .text.pclkDivOptimize
+                0x08002fdc       0x34 ./emlib/em_cmu.o
+ .text.sysrtcClkGet
+                0x08003010       0x88 ./emlib/em_cmu.o
+ .text.waitStateMax
+                0x08003098       0x16 ./emlib/em_cmu.o
+ *fill*         0x080030ae        0x2 
+ .text.wdog0ClkGet
+                0x080030b0       0x9c ./emlib/em_cmu.o
+ .text.wdog1ClkGet
+                0x0800314c       0x9c ./emlib/em_cmu.o
+ .text.sysTickClkGet
+                0x080031e8       0x5c ./emlib/em_cmu.o
+ .text.CORE_EnterCritical
+                0x08003244       0x22 ./emlib/em_core.o
+                0x08003244                CORE_EnterCritical
+ .text.CORE_ExitCritical
+                0x08003266       0x1e ./emlib/em_core.o
+                0x08003266                CORE_ExitCritical
+ .text.BUS_RegBitRead
+                0x08003284       0x24 ./emlib/em_emu.o
+ .text.EMU_VScaleWait
+                0x080032a8       0x20 ./emlib/em_emu.o
+ .text.EMU_VScaleGet
+                0x080032c8       0x20 ./emlib/em_emu.o
+ .text.vScaleEM01Cmd
+                0x080032e8       0x22 ./emlib/em_emu.o
+ .text.EMU_EFPEM01VScale
+                0x0800330a       0x16 ./emlib/em_emu.o
+                0x0800330a                EMU_EFPEM01VScale
+ .text.EMU_VScaleEM01ByClock
+                0x08003320       0x58 ./emlib/em_emu.o
+                0x08003320                EMU_VScaleEM01ByClock
+ .text.EMU_VScaleEM01
+                0x08003378       0xa4 ./emlib/em_emu.o
+                0x08003378                EMU_VScaleEM01
+ .text.BUS_RegMaskedWrite
+                0x0800341c       0x36 ./emlib/em_gpio.o
+ *fill*         0x08003452        0x2 
+ .text.GPIO_PinOutClear
+                0x08003454       0x4c ./emlib/em_gpio.o
+ .text.GPIO_PinOutSet
+                0x080034a0       0x4c ./emlib/em_gpio.o
+ .text.GPIO_PinModeSet
+                0x080034ec       0xdc ./emlib/em_gpio.o
+                0x080034ec                GPIO_PinModeSet
+ .text.IADC_command
+                0x080035c8       0x1c ./emlib/em_iadc.o
+ .text.IADC_disable
+                0x080035e4       0x44 ./emlib/em_iadc.o
+ .text.IADC_enable
+                0x08003628       0x20 ./emlib/em_iadc.o
+ .text.IADC_ConvertRawDataToResult
+                0x08003648       0x76 ./emlib/em_iadc.o
+ *fill*         0x080036be        0x2 
+ .text.IADC_init
+                0x080036c0      0x9c0 ./emlib/em_iadc.o
+                0x080036c0                IADC_init
+ .text.IADC_initScan
+                0x08004080      0x168 ./emlib/em_iadc.o
+                0x08004080                IADC_initScan
+ .text.IADC_calcTimebase
+                0x080041e8       0x8c ./emlib/em_iadc.o
+                0x080041e8                IADC_calcTimebase
+ .text.IADC_calcSrcClkPrescale
+                0x08004274       0x64 ./emlib/em_iadc.o
+                0x08004274                IADC_calcSrcClkPrescale
+ .text.IADC_calcAdcClkPrescale
+                0x080042d8       0xb0 ./emlib/em_iadc.o
+                0x080042d8                IADC_calcAdcClkPrescale
+ .text.IADC_pullScanFifoResult
+                0x08004388       0x30 ./emlib/em_iadc.o
+                0x08004388                IADC_pullScanFifoResult
+ .text.IADC_getReferenceVoltage
+                0x080043b8       0x6c ./emlib/em_iadc.o
+                0x080043b8                IADC_getReferenceVoltage
+ .text.SYSCFG_readChipRev
+                0x08004424       0x18 ./emlib/em_system.o
+ .text.SYSTEM_ChipRevisionGet
+                0x0800443c       0x50 ./emlib/em_system.o
+                0x0800443c                SYSTEM_ChipRevisionGet
+ .text.__NVIC_EnableIRQ
+                0x0800448c       0x3c ./src/main_scan_iadc_timer.o
+ .text.__NVIC_ClearPendingIRQ
+                0x080044c8       0x3c ./src/main_scan_iadc_timer.o
+ .text.CHIP_Init
+                0x08004504        0xe ./src/main_scan_iadc_timer.o
+ *fill*         0x08004512        0x2 
+ .text.GPIO_PinOutClear
+                0x08004514       0x4c ./src/main_scan_iadc_timer.o
+ .text.GPIO_PinOutSet
+                0x08004560       0x4c ./src/main_scan_iadc_timer.o
+ .text.CMU_OscillatorEnable
+                0x080045ac       0x1e ./src/main_scan_iadc_timer.o
+ .text.IADC_clearInt
+                0x080045ca       0x22 ./src/main_scan_iadc_timer.o
+ .text.IADC_enableInt
+                0x080045ec       0x22 ./src/main_scan_iadc_timer.o
+ .text.IADC_command
+                0x0800460e       0x1c ./src/main_scan_iadc_timer.o
+ .text.IADC_getScanFifoCnt
+                0x0800462a       0x22 ./src/main_scan_iadc_timer.o
+ .text.initCMU  0x0800464c       0x78 ./src/main_scan_iadc_timer.o
+                0x0800464c                initCMU
+ .text.initGPIO
+                0x080046c4       0x1c ./src/main_scan_iadc_timer.o
+                0x080046c4                initGPIO
+ .text.initIADC
+                0x080046e0      0x1c8 ./src/main_scan_iadc_timer.o
+                0x080046e0                initIADC
+ .text.IADC_IRQHandler
+                0x080048a8       0x80 ./src/main_scan_iadc_timer.o
+                0x080048a8                IADC_IRQHandler
+ .text.main     0x08004928       0x54 ./src/main_scan_iadc_timer.o
+                0x08004928                main
+ .text._exit    0x0800497c        0xc ./src/sl_syscalls.o
+                0x0800497c                _exit
+ .text          0x08004988      0x378 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(_arm_addsubdf3.o)
+                0x08004988                __aeabi_drsub
+                0x08004990                __aeabi_dsub
+                0x08004990                __subdf3
+                0x08004994                __aeabi_dadd
+                0x08004994                __adddf3
+                0x08004c0c                __floatunsidf
+                0x08004c0c                __aeabi_ui2d
+                0x08004c2c                __floatsidf
+                0x08004c2c                __aeabi_i2d
+                0x08004c50                __aeabi_f2d
+                0x08004c50                __extendsfdf2
+                0x08004c94                __floatundidf
+                0x08004c94                __aeabi_ul2d
+                0x08004ca4                __floatdidf
+                0x08004ca4                __aeabi_l2d
+ .text          0x08004d00      0x424 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(_arm_muldivdf3.o)
+                0x08004d00                __aeabi_dmul
+                0x08004d00                __muldf3
+                0x08004f54                __divdf3
+                0x08004f54                __aeabi_ddiv
+ .text          0x08005124      0x110 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(_arm_cmpdf2.o)
+                0x08005124                __gtdf2
+                0x08005124                __gedf2
+                0x0800512c                __ltdf2
+                0x0800512c                __ledf2
+                0x08005134                __nedf2
+                0x08005134                __eqdf2
+                0x08005134                __cmpdf2
+                0x080051b0                __aeabi_cdrcmple
+                0x080051c0                __aeabi_cdcmpeq
+                0x080051c0                __aeabi_cdcmple
+                0x080051d0                __aeabi_dcmpeq
+                0x080051e4                __aeabi_dcmplt
+                0x080051f8                __aeabi_dcmple
+                0x0800520c                __aeabi_dcmpge
+                0x08005220                __aeabi_dcmpgt
+ .text.selfrel_offset31
+                0x08005234       0x14 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+ .text.search_EIT_table
+                0x08005248       0x5c e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+ .text.__gnu_unwind_get_pr_addr
+                0x080052a4       0x28 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+ .text.get_eit_entry
+                0x080052cc       0x90 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+ .text.restore_non_core_regs
+                0x0800535c       0x58 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+ .text._Unwind_decode_typeinfo_ptr.constprop.0
+                0x080053b4        0xc e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+ .text._Unwind_DebugHook
+                0x080053c0        0x4 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+ .text.unwind_phase2
+                0x080053c4       0x3c e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+ .text.unwind_phase2_forced
+                0x08005400       0xe4 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+ .text.__gnu_Unwind_RaiseException
+                0x080054e4       0x68 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+                0x080054e4                __gnu_Unwind_RaiseException
+ .text.__gnu_Unwind_ForcedUnwind
+                0x0800554c       0x14 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+                0x0800554c                __gnu_Unwind_ForcedUnwind
+ .text.__gnu_Unwind_Resume
+                0x08005560       0x40 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+                0x08005560                __gnu_Unwind_Resume
+ .text.__gnu_Unwind_Resume_or_Rethrow
+                0x080055a0       0x18 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+                0x080055a0                __gnu_Unwind_Resume_or_Rethrow
+ .text._Unwind_VRS_Get
+                0x080055b8       0x34 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+                0x080055b8                _Unwind_VRS_Get
+ .text._Unwind_GetGR
+                0x080055ec       0x18 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+ .text._Unwind_VRS_Set
+                0x08005604       0x34 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+                0x08005604                _Unwind_VRS_Set
+ .text._Unwind_SetGR
+                0x08005638       0x18 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+ .text.__gnu_Unwind_Backtrace
+                0x08005650       0x7c e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+                0x08005650                __gnu_Unwind_Backtrace
+ .text.__gnu_unwind_pr_common
+                0x080056cc      0x2b8 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+ .text.__aeabi_unwind_cpp_pr0
+                0x08005984        0x8 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+                0x08005984                __aeabi_unwind_cpp_pr0
+ .text.__aeabi_unwind_cpp_pr1
+                0x0800598c        0x8 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+                0x0800598c                __aeabi_unwind_cpp_pr1
+ .text.__aeabi_unwind_cpp_pr2
+                0x08005994        0x8 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+                0x08005994                __aeabi_unwind_cpp_pr2
+ .text._Unwind_VRS_Pop
+                0x0800599c      0x2b8 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+                0x0800599c                _Unwind_VRS_Pop
+ .text          0x08005c54      0x1ac e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(libunwind.o)
+                0x08005c54                __restore_core_regs
+                0x08005c54                restore_core_regs
+                0x08005c6c                __gnu_Unwind_Restore_VFP
+                0x08005c74                __gnu_Unwind_Save_VFP
+                0x08005c7c                __gnu_Unwind_Restore_VFP_D
+                0x08005c84                __gnu_Unwind_Save_VFP_D
+                0x08005c8c                __gnu_Unwind_Restore_VFP_D_16_to_31
+                0x08005c94                __gnu_Unwind_Save_VFP_D_16_to_31
+                0x08005c9c                __gnu_Unwind_Restore_WMMXD
+                0x08005ce0                __gnu_Unwind_Save_WMMXD
+                0x08005d24                __gnu_Unwind_Restore_WMMXC
+                0x08005d38                __gnu_Unwind_Save_WMMXC
+                0x08005d4c                ___Unwind_RaiseException
+                0x08005d4c                _Unwind_RaiseException
+                0x08005d70                _Unwind_Resume
+                0x08005d70                ___Unwind_Resume
+                0x08005d94                _Unwind_Resume_or_Rethrow
+                0x08005d94                ___Unwind_Resume_or_Rethrow
+                0x08005db8                _Unwind_ForcedUnwind
+                0x08005db8                ___Unwind_ForcedUnwind
+                0x08005ddc                ___Unwind_Backtrace
+                0x08005ddc                _Unwind_Backtrace
+ .text.next_unwind_byte
+                0x08005e00       0x3c e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(pr-support.o)
+ .text.__gnu_unwind_execute
+                0x08005e3c      0x2d8 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(pr-support.o)
+                0x08005e3c                __gnu_unwind_execute
+ .text.exit     0x08006114       0x24 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-exit.o)
+                0x08006114                exit
+ .text.memset   0x08006138       0x10 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-memset.o)
+                0x08006138                memset
+ .text.__libc_init_array
+                0x08006148       0x48 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-init.o)
+                0x08006148                __libc_init_array
+ .text.memcpy   0x08006190       0x1a e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-memcpy-stub.o)
+                0x08006190                memcpy
+ *(.init)
+ *fill*         0x080061aa        0x2 
+ .init          0x080061ac        0x4 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp/crti.o
+                0x080061ac                _init
+ .init          0x080061b0        0x8 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp/crtn.o
+ *(.fini)
+ .fini          0x080061b8        0x4 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp/crti.o
+                0x080061b8                _fini
+ .fini          0x080061bc        0x8 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp/crtn.o
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+ *(.rodata*)
+ .rodata        0x080061c4       0x18 ./emlib/em_iadc.o
+ .rodata        0x080061dc       0x50 ./src/main_scan_iadc_timer.o
+ *(.eh_frame*)
+ .eh_frame      0x0800622c        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp/crtbegin.o
+ .eh_frame      0x0800622c        0x4 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp/crtend.o
+
+.glue_7         0x08006230        0x0
+ .glue_7        0x08006230        0x0 linker stubs
+
+.glue_7t        0x08006230        0x0
+ .glue_7t       0x08006230        0x0 linker stubs
+
+.vfp11_veneer   0x08006230        0x0
+ .vfp11_veneer  0x08006230        0x0 linker stubs
+
+.v4_bx          0x08006230        0x0
+ .v4_bx         0x08006230        0x0 linker stubs
+
+.iplt           0x08006230        0x0
+ .iplt          0x08006230        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x08006230                __exidx_start = .
+
+.ARM.exidx      0x08006230       0x98
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x08006230        0x8 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp/crt0.o
+                                 0x10 (size before relaxing)
+ .ARM.exidx     0x08006238       0x10 ./CMSIS/EFR32MG24/startup_efr32mg24.o
+                                 0x18 (size before relaxing)
+ .ARM.exidx.text.selfrel_offset31
+                0x08006248        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text.search_EIT_table
+                0x08006248        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text.__gnu_unwind_get_pr_addr
+                0x08006248        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text.get_eit_entry
+                0x08006248        0x8 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+ .ARM.exidx.text.restore_non_core_regs
+                0x08006250        0x8 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+ .ARM.exidx.text._Unwind_decode_typeinfo_ptr.constprop.0
+                0x08006258        0x8 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+ .ARM.exidx.text._Unwind_DebugHook
+                0x08006260        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text.unwind_phase2
+                0x08006260        0x8 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+ .ARM.exidx.text.unwind_phase2_forced
+                0x08006268        0x8 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+ .ARM.exidx.text.__gnu_Unwind_RaiseException
+                0x08006270        0x8 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+ .ARM.exidx.text.__gnu_Unwind_ForcedUnwind
+                0x08006278        0x8 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+ .ARM.exidx.text.__gnu_Unwind_Resume
+                0x08006280        0x8 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+ .ARM.exidx.text.__gnu_Unwind_Resume_or_Rethrow
+                0x08006288        0x8 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+ .ARM.exidx.text._Unwind_VRS_Get
+                0x08006290        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._Unwind_GetGR
+                0x08006290        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._Unwind_VRS_Set
+                0x08006290        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._Unwind_SetGR
+                0x08006290        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text.__gnu_Unwind_Backtrace
+                0x08006290        0x8 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+ .ARM.exidx.text.__gnu_unwind_pr_common
+                0x08006298        0x8 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+ .ARM.exidx.text.__aeabi_unwind_cpp_pr0
+                0x080062a0        0x8 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+ .ARM.exidx.text.__aeabi_unwind_cpp_pr1
+                0x080062a8        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text.__aeabi_unwind_cpp_pr2
+                0x080062a8        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._Unwind_VRS_Pop
+                0x080062a8       0x10 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text.next_unwind_byte
+                0x080062b8        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(pr-support.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text.__gnu_unwind_execute
+                0x080062b8       0x10 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(pr-support.o)
+                                  0x8 (size before relaxing)
+                0x080062c8                __exidx_end = .
+
+.rel.dyn        0x080062c8        0x0
+ .rel.iplt      0x080062c8        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp/crtbegin.o
+
+.copy.table     0x080062c8        0xc
+                0x080062c8                . = ALIGN (0x4)
+                0x080062c8                __copy_table_start__ = .
+                0x080062c8        0x4 LONG 0x80062dc __etext
+                0x080062cc        0x4 LONG 0x20000000 __data_start__
+                0x080062d0        0x4 LONG 0x18 (__data_end__ - __data_start__)
+                0x080062d4                __copy_table_end__ = .
+
+.zero.table     0x080062d4        0x8
+                0x080062d4                . = ALIGN (0x4)
+                0x080062d4                __zero_table_start__ = .
+                0x080062d4        0x4 LONG 0x20000018 __bss_start__
+                0x080062d8        0x4 LONG 0x34 (__bss_end__ - __bss_start__)
+                0x080062dc                __zero_table_end__ = .
+                0x080062dc                __etext = .
+
+.data           0x20000000       0x18 load address 0x080062dc
+                0x20000000                __data_start__ = .
+ *(vtable)
+ *(.data*)
+ .data.SystemHFXOClock
+                0x20000000        0x4 ./CMSIS/EFR32MG24/system_efr32mg24.o
+ .data.SystemLFXOClock
+                0x20000004        0x4 ./CMSIS/EFR32MG24/system_efr32mg24.o
+ .data.SystemHFRCODPLLClock
+                0x20000008        0x4 ./CMSIS/EFR32MG24/system_efr32mg24.o
+ .data.SystemCoreClock
+                0x2000000c        0x4 ./CMSIS/EFR32MG24/system_efr32mg24.o
+                0x2000000c                SystemCoreClock
+                0x20000010                . = ALIGN (0x4)
+ *(.ram)
+                0x20000010                . = ALIGN (0x4)
+                0x20000010                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array)
+                0x20000010                PROVIDE (__preinit_array_end = .)
+                0x20000010                . = ALIGN (0x4)
+                0x20000010                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array)
+ .init_array    0x20000010        0x4 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp/crtbegin.o
+                0x20000014                PROVIDE (__init_array_end = .)
+                0x20000014                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array)
+ .fini_array    0x20000014        0x4 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp/crtbegin.o
+                [!provide]                PROVIDE (__fini_array_end = .)
+ *(.jcr*)
+                0x20000018                . = ALIGN (0x4)
+                0x20000018                __data_end__ = .
+
+.tm_clone_table
+                0x20000018        0x0 load address 0x080062f4
+ .tm_clone_table
+                0x20000018        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp/crtbegin.o
+ .tm_clone_table
+                0x20000018        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp/crtend.o
+
+.igot.plt       0x20000018        0x0 load address 0x080062f4
+ .igot.plt      0x20000018        0x0 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp/crtbegin.o
+
+.bss            0x20000018       0x34 load address 0x080062f8
+                0x20000018                . = ALIGN (0x4)
+                0x20000018                __bss_start__ = .
+ *(.bss*)
+ .bss.completed.1
+                0x20000018        0x1 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp/crtbegin.o
+ *fill*         0x20000019        0x3 
+ .bss.object.0  0x2000001c       0x18 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp/crtbegin.o
+ .bss.vScaleEM01Config
+                0x20000034        0x1 ./emlib/em_emu.o
+ *fill*         0x20000035        0x3 
+ .bss.scanResult
+                0x20000038       0x10 ./src/main_scan_iadc_timer.o
+ .bss.__stdio_exit_handler
+                0x20000048        0x4 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-findfp.o)
+                0x20000048                __stdio_exit_handler
+ *(COMMON)
+                0x2000004c                . = ALIGN (0x4)
+                0x2000004c                __bss_end__ = .
+
+.heap           0x20000050      0xc00
+                0x20000050                __HeapBase = .
+                0x20000050                __end__ = .
+                0x20000050                end = __end__
+                0x20000050                _end = __end__
+ *(.heap*)
+ .heap          0x20000050      0xc00 ./CMSIS/EFR32MG24/startup_efr32mg24.o
+                0x20000c50                __HeapLimit = .
+
+.stack_dummy    0x20000200      0x400
+ *(.stack*)
+ .stack         0x20000200      0x400 ./CMSIS/EFR32MG24/startup_efr32mg24.o
+                0x20040000                __StackTop = (ORIGIN (RAM) + LENGTH (RAM))
+                0x2003fc00                __StackLimit = (__StackTop - SIZEOF (.stack_dummy))
+                0x20040000                PROVIDE (__stack = __StackTop)
+                0x00000001                ASSERT ((__StackLimit >= __HeapLimit), region RAM overflowed with stack)
+                0x00000001                ASSERT ((LENGTH (FLASH) >= ((__etext - ORIGIN (FLASH)) + SIZEOF (.data))), FLASH memory overflowed !)
+OUTPUT(BRD4186C_EFR32MG24_iadc_scan_iadc_timer.axf elf32-littlearm)
+LOAD linker stubs
+
+.ARM.attributes
+                0x00000000       0x34
+ .ARM.attributes
+                0x00000000       0x26 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp/crti.o
+ .ARM.attributes
+                0x00000026       0x36 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp/crtbegin.o
+ .ARM.attributes
+                0x0000005c       0x24 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp/crt0.o
+ .ARM.attributes
+                0x00000080       0x24 ./CMSIS/EFR32MG24/startup_efr32mg24.o
+ .ARM.attributes
+                0x000000a4       0x38 ./CMSIS/EFR32MG24/system_efr32mg24.o
+ .ARM.attributes
+                0x000000dc       0x38 ./emlib/em_cmu.o
+ .ARM.attributes
+                0x00000114       0x38 ./emlib/em_core.o
+ .ARM.attributes
+                0x0000014c       0x38 ./emlib/em_emu.o
+ .ARM.attributes
+                0x00000184       0x38 ./emlib/em_gpio.o
+ .ARM.attributes
+                0x000001bc       0x38 ./emlib/em_iadc.o
+ .ARM.attributes
+                0x000001f4       0x38 ./emlib/em_system.o
+ .ARM.attributes
+                0x0000022c       0x38 ./src/main_scan_iadc_timer.o
+ .ARM.attributes
+                0x00000264       0x38 ./src/sl_syscalls.o
+ .ARM.attributes
+                0x0000029c       0x26 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x000002c2       0x26 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(_arm_muldivdf3.o)
+ .ARM.attributes
+                0x000002e8       0x26 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(_arm_cmpdf2.o)
+ .ARM.attributes
+                0x0000030e       0x36 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+ .ARM.attributes
+                0x00000344       0x26 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(libunwind.o)
+ .ARM.attributes
+                0x0000036a       0x36 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(pr-support.o)
+ .ARM.attributes
+                0x000003a0       0x36 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-exit.o)
+ .ARM.attributes
+                0x000003d6       0x36 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-findfp.o)
+ .ARM.attributes
+                0x0000040c       0x36 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-memset.o)
+ .ARM.attributes
+                0x00000442       0x36 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-init.o)
+ .ARM.attributes
+                0x00000478       0x36 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-memcpy-stub.o)
+ .ARM.attributes
+                0x000004ae       0x36 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp/crtend.o
+ .ARM.attributes
+                0x000004e4       0x26 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp/crtn.o
+
+.comment        0x00000000       0x45
+ .comment       0x00000000       0x45 ./CMSIS/EFR32MG24/system_efr32mg24.o
+                                 0x46 (size before relaxing)
+ .comment       0x00000045       0x46 ./emlib/em_cmu.o
+ .comment       0x00000045       0x46 ./emlib/em_core.o
+ .comment       0x00000045       0x46 ./emlib/em_emu.o
+ .comment       0x00000045       0x46 ./emlib/em_gpio.o
+ .comment       0x00000045       0x46 ./emlib/em_iadc.o
+ .comment       0x00000045       0x46 ./emlib/em_system.o
+ .comment       0x00000045       0x46 ./src/main_scan_iadc_timer.o
+ .comment       0x00000045       0x46 ./src/sl_syscalls.o
+
+.debug_line_str
+                0x00000000      0x1c9
+ .debug_line_str
+                0x00000000       0xe9 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp/crt0.o
+ .debug_line_str
+                0x000000e9       0xd4 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(_arm_addsubdf3.o)
+ .debug_line_str
+                0x000001bd       0xd4 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(_arm_muldivdf3.o)
+ .debug_line_str
+                0x000001bd       0xd4 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(_arm_cmpdf2.o)
+ .debug_line_str
+                0x000001bd        0xc e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(libunwind.o)
+                                 0xd3 (size before relaxing)
+
+.debug_line     0x00000000     0x5aef
+ .debug_line    0x00000000       0xc1 ./CMSIS/EFR32MG24/startup_efr32mg24.o
+ .debug_line    0x000000c1      0x55c ./CMSIS/EFR32MG24/system_efr32mg24.o
+ .debug_line    0x0000061d     0x21eb ./emlib/em_cmu.o
+ .debug_line    0x00002808      0x809 ./emlib/em_core.o
+ .debug_line    0x00003011      0xbaa ./emlib/em_emu.o
+ .debug_line    0x00003bbb      0x589 ./emlib/em_gpio.o
+ .debug_line    0x00004144      0xec9 ./emlib/em_iadc.o
+ .debug_line    0x0000500d      0x427 ./emlib/em_system.o
+ .debug_line    0x00005434      0x56c ./src/main_scan_iadc_timer.o
+ .debug_line    0x000059a0      0x14f ./src/sl_syscalls.o
+
+.debug_info     0x00000000    0x1b4a0
+ .debug_info    0x00000000      0x505 ./CMSIS/EFR32MG24/startup_efr32mg24.o
+ .debug_info    0x00000505     0x23fe ./CMSIS/EFR32MG24/system_efr32mg24.o
+ .debug_info    0x00002903     0x8d53 ./emlib/em_cmu.o
+ .debug_info    0x0000b656     0x1037 ./emlib/em_core.o
+ .debug_info    0x0000c68d     0x4b0b ./emlib/em_emu.o
+ .debug_info    0x00011198     0x238f ./emlib/em_gpio.o
+ .debug_info    0x00013527     0x23d4 ./emlib/em_iadc.o
+ .debug_info    0x000158fb     0x1e20 ./emlib/em_system.o
+ .debug_info    0x0001771b     0x3a9b ./src/main_scan_iadc_timer.o
+ .debug_info    0x0001b1b6      0x2ea ./src/sl_syscalls.o
+
+.debug_abbrev   0x00000000     0x1851
+ .debug_abbrev  0x00000000       0x21 ./CMSIS/EFR32MG24/startup_efr32mg24.o
+ .debug_abbrev  0x00000021      0x2e8 ./CMSIS/EFR32MG24/system_efr32mg24.o
+ .debug_abbrev  0x00000309      0x418 ./emlib/em_cmu.o
+ .debug_abbrev  0x00000721      0x26e ./emlib/em_core.o
+ .debug_abbrev  0x0000098f      0x3b5 ./emlib/em_emu.o
+ .debug_abbrev  0x00000d44      0x251 ./emlib/em_gpio.o
+ .debug_abbrev  0x00000f95      0x2e4 ./emlib/em_iadc.o
+ .debug_abbrev  0x00001279      0x22f ./emlib/em_system.o
+ .debug_abbrev  0x000014a8      0x2d0 ./src/main_scan_iadc_timer.o
+ .debug_abbrev  0x00001778       0xd9 ./src/sl_syscalls.o
+
+.debug_aranges  0x00000000      0x8a0
+ .debug_aranges
+                0x00000000       0x20 ./CMSIS/EFR32MG24/startup_efr32mg24.o
+ .debug_aranges
+                0x00000020       0xa8 ./CMSIS/EFR32MG24/system_efr32mg24.o
+ .debug_aranges
+                0x000000c8      0x288 ./emlib/em_cmu.o
+ .debug_aranges
+                0x00000350       0xe8 ./emlib/em_core.o
+ .debug_aranges
+                0x00000438      0x198 ./emlib/em_emu.o
+ .debug_aranges
+                0x000005d0       0x78 ./emlib/em_gpio.o
+ .debug_aranges
+                0x00000648       0xe0 ./emlib/em_iadc.o
+ .debug_aranges
+                0x00000728       0x80 ./emlib/em_system.o
+ .debug_aranges
+                0x000007a8       0x90 ./src/main_scan_iadc_timer.o
+ .debug_aranges
+                0x00000838       0x68 ./src/sl_syscalls.o
+
+.debug_str      0x00000000     0xa834
+ .debug_str     0x00000000      0x6c8 ./CMSIS/EFR32MG24/startup_efr32mg24.o
+                                0x715 (size before relaxing)
+ .debug_str     0x000006c8     0x15db ./CMSIS/EFR32MG24/system_efr32mg24.o
+                               0x1766 (size before relaxing)
+ .debug_str     0x00001ca3     0x5615 ./emlib/em_cmu.o
+                               0x6543 (size before relaxing)
+ .debug_str     0x000072b8      0x313 ./emlib/em_core.o
+                                0xafd (size before relaxing)
+ .debug_str     0x000075cb      0xcb2 ./emlib/em_emu.o
+                               0x2db1 (size before relaxing)
+ .debug_str     0x0000827d      0x12a ./emlib/em_gpio.o
+                               0x1699 (size before relaxing)
+ .debug_str     0x000083a7     0x1b6b ./emlib/em_iadc.o
+                               0x2688 (size before relaxing)
+ .debug_str     0x00009f12      0x2e3 ./emlib/em_system.o
+                               0x154c (size before relaxing)
+ .debug_str     0x0000a1f5      0x59c ./src/main_scan_iadc_timer.o
+                               0x403b (size before relaxing)
+ .debug_str     0x0000a791       0xa3 ./src/sl_syscalls.o
+                                0x258 (size before relaxing)
+
+.debug_loc      0x00000000     0x4b52
+ .debug_loc     0x00000000      0x564 ./CMSIS/EFR32MG24/system_efr32mg24.o
+ .debug_loc     0x00000564     0x1712 ./emlib/em_cmu.o
+ .debug_loc     0x00001c76      0x88c ./emlib/em_core.o
+ .debug_loc     0x00002502      0xde0 ./emlib/em_emu.o
+ .debug_loc     0x000032e2      0x414 ./emlib/em_gpio.o
+ .debug_loc     0x000036f6      0x84a ./emlib/em_iadc.o
+ .debug_loc     0x00003f40      0x3ec ./emlib/em_system.o
+ .debug_loc     0x0000432c      0x4ca ./src/main_scan_iadc_timer.o
+ .debug_loc     0x000047f6      0x35c ./src/sl_syscalls.o
+
+.debug_ranges   0x00000000      0x808
+ .debug_ranges  0x00000000       0x98 ./CMSIS/EFR32MG24/system_efr32mg24.o
+ .debug_ranges  0x00000098      0x278 ./emlib/em_cmu.o
+ .debug_ranges  0x00000310       0xd8 ./emlib/em_core.o
+ .debug_ranges  0x000003e8      0x188 ./emlib/em_emu.o
+ .debug_ranges  0x00000570       0x68 ./emlib/em_gpio.o
+ .debug_ranges  0x000005d8       0xe8 ./emlib/em_iadc.o
+ .debug_ranges  0x000006c0       0x70 ./emlib/em_system.o
+ .debug_ranges  0x00000730       0x80 ./src/main_scan_iadc_timer.o
+ .debug_ranges  0x000007b0       0x58 ./src/sl_syscalls.o
+
+.debug_frame    0x00000000     0x2aac
+ .debug_frame   0x00000000      0x288 ./CMSIS/EFR32MG24/system_efr32mg24.o
+ .debug_frame   0x00000288      0xadc ./emlib/em_cmu.o
+ .debug_frame   0x00000d64      0x3e0 ./emlib/em_core.o
+ .debug_frame   0x00001144      0x690 ./emlib/em_emu.o
+ .debug_frame   0x000017d4      0x1dc ./emlib/em_gpio.o
+ .debug_frame   0x000019b0      0x3c4 ./emlib/em_iadc.o
+ .debug_frame   0x00001d74      0x1e4 ./emlib/em_system.o
+ .debug_frame   0x00001f58      0x24c ./src/main_scan_iadc_timer.o
+ .debug_frame   0x000021a4      0x18c ./src/sl_syscalls.o
+ .debug_frame   0x00002330       0xac e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(_arm_addsubdf3.o)
+ .debug_frame   0x000023dc       0x50 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(_arm_muldivdf3.o)
+ .debug_frame   0x0000242c       0xc4 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(_arm_cmpdf2.o)
+ .debug_frame   0x000024f0      0x2d4 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(unwind-arm.o)
+ .debug_frame   0x000027c4      0x108 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(pr-support.o)
+ .debug_frame   0x000028cc       0x28 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-exit.o)
+ .debug_frame   0x000028f4      0x144 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-findfp.o)
+ .debug_frame   0x00002a38       0x20 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-memset.o)
+ .debug_frame   0x00002a58       0x2c e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-init.o)
+ .debug_frame   0x00002a84       0x28 e:/siliconlabs/new folder/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/softfp\libc_nano.a(libc_a-memcpy-stub.o)
