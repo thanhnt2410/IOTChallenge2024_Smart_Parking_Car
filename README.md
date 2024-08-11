@@ -1,6 +1,7 @@
 # IOTChallenge2024_Smart_Parking_Car  
-Link video: https://www.tiktok.com/@nt.thanh2002/video/7396654274526137617?is_from_webapp=1&sender_device=pc&web_id=7379584111223342599|  
-https://youtu.be/P9Sob3GZvb8
+Link video:   
+- https://www.tiktok.com/@nt.thanh2002/video/7396654274526137617?is_from_webapp=1&sender_device=pc&web_id=7379584111223342599|  
+- https://youtu.be/P9Sob3GZvb8
 
 Sử dụng mạng Zigbee từ chip EFR32XG24 của nhà SiliconLab có tích hợp Zigbee. Gateway sử dụng NCP kết nối với Raspberry Pi  4. 
 
