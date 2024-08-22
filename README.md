@@ -2,7 +2,7 @@
 Link video:   
 - https://www.tiktok.com/@nt.thanh2002/video/7396654274526137617?is_from_webapp=1&sender_device=pc&web_id=7379584111223342599|  
 
-Sử dụng mạng Zigbee từ chip EFR32XG24 của nhà SiliconLab có tích hợp Zigbee. Gateway sử dụng NCP kết nối với Raspberry Pi  4. 
+Sử dụng mạng Zigbee từ chip EFR32XG24 của nhà SiliconLab có tích hợp Zigbee. Gateway sử dụng NCP kết nối với Raspberry Pi  4. Xử lý ảnh detect chỗ trống và detect biển số xe
 
   ![image](https://github.com/user-attachments/assets/7fbe5c05-f36c-42a5-b513-69c8c0859c8f)
     
